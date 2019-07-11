@@ -5,8 +5,9 @@ import ReactDOM from 'react-dom';
 import App from './containers/app/App';
 
 // Import CSS Files
-import 'bootstrap/dist/css/bootstrap.css';
+// import 'bootstrap/dist/css/bootstrap.css';
 import './index.css';
+import 'tachyons';
 
 import * as serviceWorker from './serviceWorker';
 
